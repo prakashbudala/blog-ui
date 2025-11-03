@@ -15,7 +15,7 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 
-### Use this credentials to login
+### Use this credentials to login in blog UI
 
 **email**: admin@gmail.com
 **password**: password123
